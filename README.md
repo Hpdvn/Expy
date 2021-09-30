@@ -1,2 +1,3 @@
 # Expy
-Some exercises in python
+Some exercises in python from Exercism.com
+
